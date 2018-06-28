@@ -13,6 +13,10 @@ body {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 .footer-text {
     font-size: 1em;
     padding-left: 1em;
